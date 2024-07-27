@@ -4,7 +4,10 @@
 이 프로젝트에서는 AI Hub에서 제공한 한국어 음성 데이터와 AI 음성 데이터를 생성합니다.
 
 ## create_data
-구글 클라dn드 TTS(Text-to-Speech) api를 사용하여 한국어 음성 데이터를 생성하는 것을 목표로 합니다.
+구글 클라우드 TTS(Text-to-Speech) api를 사용하여 한국어 음성 데이터를 생성하는 것을 목표로 합니다.
+
+## create_mfcc_patchcraft
+mfcc 추출 layer를 patchcraft 를 진행한 residual layer 데이터를 생성하는 것을 목표로 합니다.
 
 ## 데이터 출처
 ### AI Hub
